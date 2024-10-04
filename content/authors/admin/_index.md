@@ -50,7 +50,8 @@ education:
     institution: UC San Diego
     date_start: 2020-09-01
     date_end: now
-    summary:  | 
+    summary:  |
+    
       Dissertation Committee:
       - Margaret Roberts(Chair)
       - James Fowler
@@ -62,7 +63,8 @@ education:
     date_start: 2017-09-01
     date_end: 2018-07-01
     summary:  |
-      Courses:
+    
+      Courses include:
       - Statistical Learning
       - Intro to Database
       - Analysis of Algorithms
