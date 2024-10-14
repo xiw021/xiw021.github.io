@@ -21,7 +21,7 @@ repository               : "xiw021/xiw021.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "xw.png"
   name             : "Xiaohan Wu"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Politics (Computational Social Science)"
