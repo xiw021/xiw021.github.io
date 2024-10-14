@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiaohan Wu / PhD Candidate"
+title                    : "Xiaohan Wu"
 title_separator          : "-"
 name                     : &name "Xiaohan Wu"
 description              : &description "personal description"
