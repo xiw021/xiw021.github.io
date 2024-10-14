@@ -1,63 +1,28 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I’m Xiaohan Wu, a PhD candidate in Political Science with a specialization in Computational Social Science at the University of California, San Diego. Before joining UCSD, I earned a Master’s degree in Electrical Engineering with a focus on data analysis from Columbia University and worked as a Data Science Research Associate at Columbia Law School.
 
-This is Xiaohan Wu's home on the web!
+My research interests are at the intersection of quantitative methods and political communication. I have worked on projects involving the analysis of large-scale legal text datasets, as well as the exploration of the political and legal implications of social media recommendation systems.
 
-My Journey to Computational Social Science
-======
-
-I have a very unique and interodfispelinarey way to the studying of social science...
-
-My academic journey started from engineering...
-
-**My Undergraduate and Master Studies in Electrical Engineering**
-
-When I was a kid, my dream was... Because...
-
-So I choosed engineering as my major, where I learned...
-
-During this period, I ... HKU...
-
-Then, I decided to move abroad to get further... Columbia...
-
-**Turn to Law School**
-
-While, although EE is interesting, I gradually found myself more... especially after I moved to columbia, I found my paaion in... and wanted to contribute to...
-
-So, I reached out to Prof. Li Ben, a famous prof in studying law... in columbia law school...
-
-The, I continued to be a...
-
-During this period, I published...
-
-**Computational Social Science**
-
-This interdispl;inary baground made me...
-
-In my career of being a research associate in law school, I generated an idea to get study computational social science..
-
-I joined UCSD program...
-
-Here, I continued... And also, I ...
 
 My Research Interest
 ======
-1. AAA
-2. BBB
-3. CCC
+1. Text analysis/NLP
+2. Transparency
+3. Social media studies
 
 My On-going Projects
 ------
-1. AAA
-2. BBB
-3. BBB
+1. Learning from Xiaohongshu: Lawyers’ Strategies in an Anti-Litigation Era. (Paper in Draft)
+2. Augmenting Serialized Bureaucratic Data: The Case of Chinese Courts. (Paper in Review)
+3. Examination of political exposure on social media: an audit study of YouTube. (Paper in Draft)
    
-In Addition to Academic
+Outside of Research
 ------
-Dog training, gardening, hiking...
+When I’m not working on my research, you’ll find me dog training, cooking and hiking.
