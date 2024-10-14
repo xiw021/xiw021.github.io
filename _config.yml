@@ -12,7 +12,7 @@ title                    : "Xiaohan Wu"
 title_separator          : "-"
 name                     : &name "Xiaohan Wu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://xiw021.github.io"
+url                      : "https://xiw021.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiw021/xiw021.github.io"
 
@@ -21,7 +21,7 @@ repository               : "xiw021/xiw021.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpg"
+  avatar           : "profile.png"
   name             : "Xiaohan Wu"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Politics (Computational Social Science)"
