@@ -23,6 +23,5 @@ Work experience
 ======
 * December 2018 - August 2020: Data Science Research Associate
   * Columbia Law School
-  * Supervisor: Benjamin L. Liebman
 
 
