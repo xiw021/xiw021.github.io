@@ -20,26 +20,4 @@ Work experience
 * December 2018 - August 2020: Data Science Research Associate
   * Columbia Law School
   * Supervisor: Benjamin L. Liebman
-  
-Skills
-======
-* Python(Scikit-learn, Pandas, TensorFlow, Selenium), R, SQL(PostgresSQL, MySQL), Bash, Git, LaTeX, Neo4j, MATLAB. 
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
