@@ -9,9 +9,7 @@ redirect_from:
 
 
 
-Teaching as Instructor
-====
-
+### Teaching as Instructor
 UCSD Political Science Incoming Ph.D. Student Math Camp - Summer 2023
 * R programming
 * Calculus
@@ -22,8 +20,7 @@ UCSD Political Science Incoming Ph.D. Student Math Camp - Summer 2024
 * Linear Algebra
 * [Booklet](https://ucsdpolimathcamp.github.io/MathCamp/)
 
-Teaching Assistant at UCSD
-====
+### Teaching Assistant at UCSD
 * Data Science, Ethics and Society (Fall 2024)
 * Political Inquiry (Fall 2023)
 * Big Data Analytics (Spring 2022)
@@ -33,7 +30,6 @@ Teaching Assistant at UCSD
 * Introduction to Legal Reasoning (Winter 2021)
 * Social Networks (Fall 2020)
 
-Teaching Assistance at Columbia University
-====
+### Teaching Assistance at Columbia University
 * Introduction to Networks and Crowds (2019)
 
